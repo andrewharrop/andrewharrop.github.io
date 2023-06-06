@@ -34,7 +34,10 @@ function Resume() {
                     <div class="p-5"></div>
                     <div class="col-sm">
                     Currently, I am a Software Engineer at TD Bank. In my position, I have focused on backend functions, specializing in handling vast volumes of batch and real-time banking and financial data. My practical expertise lies in utilizing technologies such as Java, Spring, Git, Linux, and a range of supporting tools related to testing, automation, business requests, agile methodologies, and big data analytics.
+                    <br />
+                    My technical strenghts are in Machine Learning, Backend Development, Financial Services, Algorithams, System Design, and Cloud Computing.
                     </div>
+                    
                     <div class="col-sm">
                         <img class="profile-img" src={andrew_image} alt="andrew" />
                     </div>
