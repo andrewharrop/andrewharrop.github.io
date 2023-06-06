@@ -25,7 +25,7 @@ function Resume() {
             <div class="container">
                 <div class="row">
                     <div class="col-sm">
-                    Currently, I am a dedicated Software Engineer at TD Bank, leveraging one year of valuable experience in the field. In my position, I have focused on backend functions, specializing in handling vast volumes of batch and real-time banking and financial data. My ppractical expertise lies in utilizing technologies such as Java, Spring, Git, Linux, and a range of supporting tools including Autosys, ServiceNow, Jira, Bitbucket, Postman, and IBM MQ.
+                    Currently, I am a dedicated Software Engineer at TD Bank, leveraging one year of valuable experience in the field. In my position, I have focused on backend functions, specializing in handling vast volumes of batch and real-time banking and financial data. My ppractical expertise lies in utilizing technologies such as Java, Spring, Git, Linux, and a range of supporting tools related to testing, automation, business requests, agile methodologies, and big data analytics.
                     </div>
                     <div class="col-sm">
                     Image
