@@ -22,24 +22,8 @@ import vue from './images/vue.svg'
 function Resume() {
     return (
         <div>
-            <h2>Hi</h2>
-            Andrew Harrop <br />
-            <a href="https://www.linkedin.com/in/andrew-harrop">LinkedIn</a> <br />
-            <a href="https://www.github.com/andrewharrop">Github</a> <br />
-            <br />
-            <h2>Education:</h2>
-            University of Western Ontario <br />
-            Bachelor of engineering, Software Engineering  <br />
-            Graduated in April 2022 <br />
-            <br />
+            Hi, I am Andrew
             
-            <h2>Work</h2>
-            Current Job Title: Software Engineer <br />
-            Company: TD Bank <br />
-            Start date: May 2022 <br />
-            
-            <br />
-            Testtesttest
 
         </div>
     )
