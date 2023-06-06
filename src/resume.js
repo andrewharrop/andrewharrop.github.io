@@ -26,13 +26,13 @@ function Resume() {
             <div class="container">
                 <div class="row">
                     <div class="col-sm">
-                    One of three columns
+                        Bio
                     </div>
                     <div class="col-sm">
-                    One of three columns
+                    Image
                     </div>
                     <div class="col-sm">
-                    One of three columns
+                    More about me
                     </div>
                 </div>
                 </div>
