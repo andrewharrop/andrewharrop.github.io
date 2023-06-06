@@ -19,25 +19,25 @@ import typescript from './images/typescript.svg'
 import vscode from './images/vscode.svg'
 import vue from './images/vue.svg'
 
-
 function Resume() {
     return (
         <div>
-            <h2>Personal information:</h2>
+            <h2>Hi</h2>
             Andrew Harrop <br />
             <a href="https://www.linkedin.com/in/andrew-harrop">LinkedIn</a> <br />
             <a href="https://www.github.com/andrewharrop">Github</a> <br />
             <br />
             <h2>Education:</h2>
-            University of Western Ontario
-            Bachelor of engineering, Software Engineering
-            Graduated in April 2022
-            GPA: 3.9 
+            University of Western Ontario <br />
+            Bachelor of engineering, Software Engineering  <br />
+            Graduated in April 2022 <br />
             <br />
             
-
+            <h2>Work</h2>
             Current Job Title: Software Engineer <br />
             Company: TD Bank <br />
+            Start date: May 2022 <br />
+            
             <br />
 
 
