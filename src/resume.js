@@ -31,7 +31,7 @@ function Resume() {
                     Image
                     </div>
                     <div class="col-sm">
-                    More about me
+                    <strong>Education:</strong> Bachelor of Engineering, Software Engineering, GPA:3.9/4.0, <a href="https://www.uwo.ca/">Western University</a> 
                     </div>
                 </div>
                 </div>
