@@ -32,6 +32,9 @@ function Resume() {
                     </div>
                     <div class="col-sm">
                     <strong>Education:</strong> Bachelor of Engineering, Software Engineering, GPA:3.9/4.0, <a href="https://www.uwo.ca/">Western University</a> 
+                    <strong>Current City:</strong> Toronto, Ontario, Canada
+                    <a href="https://www.linkedin.com/in/andrew-harrop/">LinkedIn</a>
+                    <a href="https://github.com/andrewharrop">GitHub</a>
                     </div>
                 </div>
                 </div>
