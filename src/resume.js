@@ -7,6 +7,9 @@ import docker from './images/docker.svg'
 import git from './images/git.svg'
 import github_image from './images/github.svg'
 import andrew_image from './images/Picture1.png'
+import linkedin_image from './images/Picture2.png'
+import email from './images/3158180.png'
+import goodreads from './images/goodreads.png'
 import html5 from './images/html5.svg'
 import java from './images/java.svg'
 import javascript from './images/javascript.svg'
@@ -36,13 +39,16 @@ function Resume() {
                         <img class="profile-img" src={andrew_image} alt="andrew" />
                     </div>
                     <div class="col-sm">
-                    <strong>Education:</strong> Bachelor of Engineering, Software Engineering, GPA:3.9/4.0, <a href="https://www.uwo.ca/">Western University</a> 
+                    <strong>Education:</strong> Bachelor of Engineering, Software Engineering, GPA:3.9/4.0<br/><a href="https://www.uwo.ca/">Western University</a> (2018-2022)
+                    <br/>
                     <br/>
                     <strong>Current City:</strong> Toronto, Ontario, Canada
                     <br/>
-                    <a href="https://www.linkedin.com/in/andrew-harrop/">LinkedIn</a>
                     <br/>
-                    <a href="https://github.com/andrewharrop">GitHub</a>
+                    <a class="p-1" href="mailto:aharrop@uwo.ca"><img src={email} width="35" height="35"/></a>
+                    <a class="p-1" href="https://www.linkedin.com/in/andrew-harrop/"><img src={linkedin_image} width="35" height="35"/></a>
+                    <a class="p-1" href="https://github.com/andrewharrop"><img src={github_image} width="35" height="35"/></a>
+                    <a class="p-1" href="https://www.goodreads.com/andrewharrop"><img src={goodreads} width="35" height="35"/></a>
                     </div>
                     
                 </div>
