@@ -24,16 +24,20 @@ function Resume() {
         <div>
             <div class="container">
                 <div class="row">
+                    <h2>Hi, my name is Andrew Harrop!</h2>
                     <div class="col-sm">
-                    Currently, I am a dedicated Software Engineer at TD Bank, leveraging one year of valuable experience in the field. In my position, I have focused on backend functions, specializing in handling vast volumes of batch and real-time banking and financial data. My ppractical expertise lies in utilizing technologies such as Java, Spring, Git, Linux, and a range of supporting tools related to testing, automation, business requests, agile methodologies, and big data analytics.
+                    Currently, I am a Software Engineer at TD Bank. In my position, I have focused on backend functions, specializing in handling vast volumes of batch and real-time banking and financial data. My practical expertise lies in utilizing technologies such as Java, Spring, Git, Linux, and a range of supporting tools related to testing, automation, business requests, agile methodologies, and big data analytics.
                     </div>
                     <div class="col-sm">
                     Image
                     </div>
                     <div class="col-sm">
                     <strong>Education:</strong> Bachelor of Engineering, Software Engineering, GPA:3.9/4.0, <a href="https://www.uwo.ca/">Western University</a> 
+                    <br/>
                     <strong>Current City:</strong> Toronto, Ontario, Canada
+                    <br/>
                     <a href="https://www.linkedin.com/in/andrew-harrop/">LinkedIn</a>
+                    <br/>
                     <a href="https://github.com/andrewharrop">GitHub</a>
                     </div>
                 </div>
