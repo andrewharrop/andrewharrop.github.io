@@ -26,11 +26,11 @@ function Resume() {
                 <div class="row">
                     <div class="col-sm">
                     I am a dedicated Software Engineer at TD Bank, leveraging one year of valuable experience in the field. Throughout my career, I have focused on backend functions, specializing in handling vast volumes of batch and real-time banking and financial data. My expertise lies in utilizing technologies such as Java, Spring, Git, Linux, and a range of supporting tools including Autosys, ServiceNow, Jira, Bitbucket, Postman, and IBM MQ.
-
+ <br/>
 Working within a dynamic agile environment, I actively contribute to the success of projects by delivering high-quality solutions. My commitment to continuous improvement drives me to stay up-to-date with the latest industry trends and best practices, ensuring that my work is efficient, scalable, and robust.
-
+<br/>
 I take pride in my ability to collaborate effectively with cross-functional teams, demonstrating excellent communication skills both in-person and remotely. By fostering a collaborative environment, I strive to achieve shared objectives and deliver outstanding results.
-
+<br/>
 Through my portfolio website, I aim to showcase my professional journey and highlight the projects and accomplishments that define my career as a Software Engineer. I invite you to explore my work and connect with me to discuss potential collaborations and opportunities within the fascinating world of technology and finance.
                     </div>
                     <div class="col-sm">
