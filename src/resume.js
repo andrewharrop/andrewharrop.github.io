@@ -33,29 +33,41 @@ function Resume() {
                     <h2 class="d-flex justify-content-center">Hi, my name is Andrew Harrop!</h2>
                     <div class="p-5"></div>
                     <div class="col-sm">
-                    Currently, I am a Software Engineer at TD Bank. In my position, I have focused on backend functions, specializing in handling vast volumes of batch and real-time banking and financial data. My practical expertise lies in utilizing technologies such as Java, Spring, Git, Linux, and a range of supporting tools related to testing, automation, business requests, agile methodologies, and big data analytics.
+                    Currently, I am a Software Engineer at TD Bank. In my position, I have focused on backend functions, specializing in handling vast volumes of batch and real-time financial data. My practical expertise lies in utilizing technologies such as Java, Spring, Git, Linux, and a range of supporting tools related to testing, automation, business requests, agile, and big data analytics.
                     <br />
-                    My technical strenghts are in Machine Learning, Backend Development, Financial Services, Algorithams, System Design, and Cloud Computing.
+                    <br />
+                    My technical strengths are in Machine Learning, Backend Development, Financial Services, Algorithams, System Design, and Cloud Computing.
                     </div>
                     
                     <div class="col-sm">
-                        <img class="profile-img" src={andrew_image} alt="andrew" />
+                        <img class="profile-img mx-auto d-block" src={andrew_image} alt="andrew" />
                     </div>
                     <div class="col-sm">
                     <strong>Education:</strong> Bachelor of Engineering, Software Engineering, GPA:3.9/4.0<br/><a href="https://www.uwo.ca/">Western University</a> (2018-2022)
                     <br/>
                     <br/>
                     <strong>Current City:</strong> Toronto, Ontario, Canada
-                    <br/>
-                    <br/>
-                    <a class="p-1" href="mailto:aharrop@uwo.ca"><img src={email} width="35" height="35"/></a>
-                    <a class="p-1" href="https://www.linkedin.com/in/andrew-harrop/"><img src={linkedin_image} width="35" height="35"/></a>
-                    <a class="p-1" href="https://github.com/andrewharrop"><img src={github_image} width="35" height="35"/></a>
-                    <a class="p-1" href="https://www.goodreads.com/andrewharrop"><img src={goodreads} width="35" height="35"/></a>
+                   <br />
+                   <br />
+                    <strong>Experience:</strong> 1.5 Years
+                    <br />
+                   <br />
+                  <strong>Languages:</strong> Java, Python, Javascript, C++
                     </div>
                     
                 </div>
-                
+                <div class="d-flex justify-content-center">
+                <a class="p-1" href="mailto:aharrop@uwo.ca"><img src={email} width="35" height="35"/></a>
+                        <a class="p-1" href="https://www.linkedin.com/in/andrew-harrop/"><img src={linkedin_image} width="35" height="35"/></a>
+                        <a class="p-1" href="https://github.com/andrewharrop"><img src={github_image} width="35" height="35"/></a>
+               
+
+
+                </div>
+                <p class="d-flex justify-content-center">Please E-Mail me for my resume and more information!</p>
+                <div class="hidden">
+                    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">My resume for intellegence companies</a>
+                    </div>    
                 </div>
         </div>
     )
