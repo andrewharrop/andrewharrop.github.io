@@ -43,13 +43,13 @@ function Resume() {
                         <img class="profile-img mx-auto d-block" src={andrew_image} alt="andrew" />
                     </div>
                     <div class="col-sm">
-                    <strong>Education:</strong> Bachelor of Engineering, Software Engineering, GPA:3.9/4.0<br/><a href="https://www.uwo.ca/">Western University</a> (2018-2022)
+                    <strong>Education:</strong> Bachelor of Engineering, Software Engineering<br/><a href="https://www.uwo.ca/">Western University</a> (2018-2022)
                     <br/>
                     <br/>
                     <strong>Current City:</strong> Toronto, Ontario, Canada
                    <br />
                    <br />
-                    <strong>Experience:</strong> 1.5 Years
+                    <strong>Experience:</strong> 2 Years
                     <br />
                    <br />
                   <strong>Languages:</strong> Java, Python, Javascript, C++
@@ -66,7 +66,7 @@ function Resume() {
                 </div>
                 <p class="d-flex justify-content-center">Please E-Mail me for my resume and more information!</p>
                 <div class="hidden">
-                    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">My resume for intellegence companies</a>
+                    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Top Secret</a>
                     </div>    
                 </div>
         </div>
