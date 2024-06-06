@@ -20,7 +20,6 @@ body {
     transform: scale(4) rotate(360deg);}
 }
 .cover {
-  background: url('./images/mountains1.JPG') no-repeat;
   object-fit: fill;
   height: 100vh;
   width: 100vw;

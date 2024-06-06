@@ -22,11 +22,22 @@ import swift from './images/swift.svg'
 import typescript from './images/typescript.svg'
 import vscode from './images/vscode.svg'
 import vue from './images/vue.svg'
+import { ThemeProvider, createTheme } from '@mui/material/styles';
+import CssBaseline from '@mui/material/CssBaseline';import { DarkMode } from '@mui/icons-material'
+
+const darkTheme = createTheme({
+    palette: {
+      mode: 'dark',
+    },
+  });
 
 function Resume() {
     return (
+        <ThemeProvider theme={darkTheme}>
+                  <CssBaseline />
+
         <div>
-            <div class="container">
+            <div class="container" data-bs-theme="dark">
                 <div class="row">
                 <div class="p-5"></div>
 
@@ -70,6 +81,8 @@ function Resume() {
                     </div>    
                 </div>
         </div>
+        </ThemeProvider>
+
     )
 }
 
