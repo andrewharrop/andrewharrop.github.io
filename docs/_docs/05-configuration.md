@@ -915,7 +915,7 @@ author:
   name: "Your Name"
   avatar: "/assets/images/bio-photo.jpg"
   bio: "I am an **amazing** person." # Note: Markdown is allowed
-  location: "Somewhere"
+  location: "Canada"
   links:
     - label: "Made Mistakes"
       icon: "fas fa-fw fa-link"
