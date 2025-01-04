@@ -2,7 +2,7 @@
 title: "Home"
 excerpt: "Home."
 sitemap: false
-permalink: /
+permalink: /home
 ---
 
 test
