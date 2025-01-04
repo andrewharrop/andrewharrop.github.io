@@ -9,34 +9,36 @@ permalink: /resume
 
 ## Working Experience
 
-#### TD Bank (Software Engineer, 2022/05 - Present) <script> const startDate = new Date('2023-01-01'); const currentDate = new Date(); const daysSince = Math.floor((currentDate - startDate) / (1000 * 60 * 60 * 24)); document.write(` (${daysSince} Day)`); </script>
+### TD Bank 
+#### (Software Engineer, 2022/05 - Present) <script> const startDate = new Date('2022-05-29'); const currentDate = new Date(); const daysSince = Math.floor((currentDate - startDate) / (1000 * 60 * 60 * 24)); document.write(` (${daysSince} days)`); </script>
 
-* Lead team of 10 to oversee conception, requirement gathering, documentation and rollout.
-* Conduct troubleshooting, analysis and support. Gather user feedback, document bugs and change requests.
+* Description
 
-#### Second Company (System Analyst, 2011/06 - 2015/07) 
+### The Virtual Gurus 
+#### (Software Engineering Intern, 2021/05 - 2021/09) 
 
-* Led team of 5 for application development
-* Coordinated with developers, support staff and vendors across Hong Kong, China, Taiwan
+* Description
 
-#### My first Company (Analyst Programmer, 2005/01 - 2011/05)
+#### Courtyard Landscape 
+#### (Landscaper, 2019/05 - 2020/09)
 
-* Develop multiple applications using Javascript, Java, PHP, Powerbuilder, Oracle
+* 
 
 ## Projects
 
-* [Casual-Markdown](https://github.com/casualwriter/powerpage) - a lightweight markdown parser
-* [Powerpage](https://github.com/casualwriter/powerpage) - a lightweight browser for html applications
+
 
 ## Education & Qualifications
 
-* AWS Certification (2021/12)
-* Oracle Certified Professional (2020/02)
-* Project Management Professional (PMP) (2018/10)
-* Bachelor of Computer Science (Sep 2004)
-* The Chinese University of Hong Kong (2000 - 2004)
+
+
+## Voulenteer Experience
+
+* Winsport summer camps
+* Royal City Soccer Club summer camps
+* City of Calgary summer camps
+* Calgary drop in center
 
 ## Misc. Information
 
-* Languages: English (good), Cantonese (fluent/native), Mandarin (good)
-* Availability: 1 month's notice
+* Languages: English (fluent/native), French (intermediate)
