@@ -2,7 +2,7 @@
 title: "About"
 excerpt: "About."
 sitemap: false
-permalink: /
+permalink: /about
 order: 1
 ---
 
