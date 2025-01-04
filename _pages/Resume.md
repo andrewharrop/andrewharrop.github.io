@@ -4,13 +4,12 @@ excerpt: "Resume."
 sitemap: false
 permalink: /resume
 ---
-# Casualwriter  
 
 
 
 ## Working Experience
 
-#### Current Company (Project Manager, 2015/08 - present) 
+#### TD Bank (Software Engineer, 2022/05 - Present) <script> const startDate = new Date('2023-01-01'); const currentDate = new Date(); const daysSince = Math.floor((currentDate - startDate) / (1000 * 60 * 60 * 24)); document.write(` (${daysSince} Day)`); </script>
 
 * Lead team of 10 to oversee conception, requirement gathering, documentation and rollout.
 * Conduct troubleshooting, analysis and support. Gather user feedback, document bugs and change requests.
