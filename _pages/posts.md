@@ -1,6 +1,6 @@
 ---
-title: "Homepage"
+title: "Posts"
 excerpt: "Home."
 sitemap: false
-permalink: /
+permalink: /posts
 ---
