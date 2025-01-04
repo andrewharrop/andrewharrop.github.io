@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Andrew Harrop"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Engineer. Currently working for TD Bank in Toronto."
+  bio              : "Engineer@TD in Toronto"
   location         : "Canada"
   email            : "andrew@andrewharrop.com"
   links:
@@ -135,7 +135,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/andrewharrop"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-likedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/andrew-harrop/"
 
 # Site Footer
