@@ -2,7 +2,7 @@
 main:
   - title: "Home"
     url: /
-  - title: "Contact"
+  - title: "Resume"
     url: /contact
   - title: "Posts"
     url: /posts
