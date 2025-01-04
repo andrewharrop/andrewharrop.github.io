@@ -3,7 +3,7 @@ main:
   - title: "about"
     url: /
   - title: "Sample Posts"
-    url: /year-archive/
+    url: /posts.html
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
