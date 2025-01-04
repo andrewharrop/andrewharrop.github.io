@@ -90,7 +90,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "andrew58202"
 facebook:
   username               :
   app_id                 :
@@ -106,7 +106,7 @@ social:
 # Analytics
 analytics:
   provider               : # false (default), "google", "google-universal", "google-gtag", "custom"
-  google:
+  google-gtag:
     tracking_id          :
     anonymize_ip         : # true, false (default)
 
