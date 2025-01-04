@@ -3,7 +3,7 @@ title: "About"
 excerpt: "About."
 sitemap: false
 permalink: /
-toc: true
+order: 1
 ---
 
 test about
