@@ -1,6 +1,5 @@
 ---
 layout: default 
-title: Home
 ---
 
 ## Website is work in progress
