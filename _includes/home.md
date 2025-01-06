@@ -1,10 +1,3 @@
----
-title: ""
-excerpt: "Home."
-sitemap: false
-permalink: /
----
-
 ## Website is work in progress
 
 ### Summary
