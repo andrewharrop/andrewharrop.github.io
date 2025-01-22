@@ -1,13 +1,12 @@
 # Manufacturing Consent by Edward Herman and Noam Chomsky
 [Manufacturing Consent: The Political Economy of the Mass Media](https://www.goodreads.com/book/show/12617.Manufacturing_Consent)
 
-
-The layout of this book is quite academic. There are chapters that are organized like academic papers, with subsections, figures, and references. The premise of this work is to explore the influence that business and politics has on the mass media. It is entered around the American media industry, and is somewhat of a timepiece, heavily emphasizing events that took place in the 40 years before its publishing (1988), and generally more attention paid to recent events(under Carter/Reagan) than to more distant ones. 
+The premise of this work is to explore the influence that politics and business interests have on the mass media. It is centred around the American media industry, and is somewhat of a timepiece, heavily emphasizing events that took place in the 40 years before its publishing (1988), and generally more attention paid to recent events(under Carter/Reagan) than to more distant ones. 
 
 ## Chapter 1: A propaganda model
 
 #### Summary: 
-The authors attempt to develop a propaganda model for the media. They think of it as a set of filters between the truth of a matter and the published version. They also have ideas about the criteria for a story to reach publication.
+The authors develop a propaganda model for the media. They think of it as a set of filters between the truth of a matter and the published version. They also have ideas about the criteria for a story to reach publication.
 
 ### The 5 propoganda filters:
 #### 1. Size, ownership, and profit orientation of the mass media
@@ -43,5 +42,14 @@ The authors attempt to develop a propaganda model for the media. They think of i
 ## Chapter 2: 
 
 #### Summary:
-This chapter distinguishes worthy and unworth victims. The authors mention [Jerzy Popiełuszko](https://en.wikipedia.org/wiki/Jerzy_Popie%C5%82uszko) as a worthy victim, and numerous cases pertaining to the U.S. supported junta in El Salvador (notably [Óscar Romero](https://en.wikipedia.org/wiki/%C3%93scar_Romero)) as unworthy victims.
-> *People abused in enemy states [are] worthy victims, wheras people treated with equal or greater severety by its own government or clients will be unworthy.*
+This chapter distinguishes worthy and unworth victims. The authors mention [Jerzy Popiełuszko](https://en.wikipedia.org/wiki/Jerzy_Popie%C5%82uszko) as a worthy victim, and numerous cases pertaining to the U.S. supported junta in El Salvador (notably [Óscar Romero](https://en.wikipedia.org/wiki/%C3%93scar_Romero)) as unworthy victims. The Popiełuszko case is also contrasted with a series of murders in Guatamala.
+> *Definition: People abused in enemy states [are] worthy victims, wheras people treated with equal or greater severety by its own government or clients will be unworthy.*
+
+#### Worthy victim: Jerzy Popiełuszko
+Jerzy Popiełuszko was Polish priest murdered by Polish police. It is important to note that at the time Poland was within the Soviet sphere of influence. Because Soviet Poland meets the criteria of an enemy state of the United States, Jerzy Popiełuszko is considered by the authors to be a worthy victim. His murder, the investigation, and the trial are extensively covered in the American media, and his killers are identified.
+
+#### Unworthy victim: Óscar Romero and other victims of the Salvadoran military dictatorship
+The Salvadoran Junta came to power when the democratally elected president was overthrown in 1931. The Junta was militaristic and right leaning. The U.S. government generally condoned the Junta leadership and ignored human rights abuses. A developing resistance to the Junta created a demand for U.S. arms and advice. In the ensuing conflict, there were numerous murders of civillians who peacefully opposed the Junta. These murders included Óscar Romero, 4 women who were American missionaries, members of the clergy, and members of indegenous populations. Although the murders were calculated, brutal, and comprable to sensationalized cases of violence in other countries, they were rarely mentioned and if mentioned only briefly in the media. They are mentioned as a clear cut example of unworthy victims.
+
+
+#### Civillian victims of the Guatamalan Government during the Guatamalan civil war
