@@ -119,9 +119,6 @@ author:
   location         : "Canada"
   email            : "andrew@andrewharrop.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:andrew@andrewharrop.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -334,4 +331,3 @@ defaults:
       comments: true
       share: true
       related: true
-

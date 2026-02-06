@@ -31,6 +31,15 @@
         </li>
       {% endif %}
 
+      {% assign has_email_link = false %}
+      {% if author.links %}
+        {% for link in author.links %}
+          {% if link.label == "Email" or link.url contains "mailto:" %}
+            {% assign has_email_link = true %}
+          {% endif %}
+        {% endfor %}
+      {% endif %}
+
       {% if author.links %}
         {% for link in author.links %}
           {% if link.label and link.url %}
@@ -47,7 +56,7 @@
         </li>
       {% endif %}
 
-      {% if author.email %}
+      {% if author.email and has_email_link == false %}
         <li>
           <a href="mailto:{{ author.email }}" rel="me" class="u-email">
             <meta itemprop="email" content="{{ author.email }}" />
